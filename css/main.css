@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    align-content: center
 }
 h1 {
     font-size: 3em;
@@ -14,12 +15,12 @@ h1 {
 .message_container {
     background-color: aquamarine;
     height: 60px;
-    width: 200px;
+    width: 20%;
 }
 
 .profile {
-    margin-top: 100px;
-    border-radius: 10px;
-    height: 200px;
-    width: 200px;
+    margin-top: 20%;
+    border-radius: 15%;
+    height: 30%;
+    width: 30%;
 }
