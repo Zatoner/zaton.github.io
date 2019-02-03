@@ -7,13 +7,6 @@ h1 {
     margin: 30px;
 }
 
-.message_container {
-    margin: auto;
-    background-color: aquamarine;
-    height: 130px;
-    width: 30%;
-}
-
 .profile {
     margin-top: 30%;
     border-radius: 5%;
