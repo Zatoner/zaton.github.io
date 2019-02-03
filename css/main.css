@@ -8,9 +8,9 @@ h1 {
 }
 
 .profile {
-    margin-top: 30%;
-    border-radius: 5%;
-    height: 40%;
-    width: 40%;
-    margin-left: 35%;
+    margin-top: 16px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 16px;
 }
